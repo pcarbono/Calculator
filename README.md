@@ -22,7 +22,5 @@ This is a simple project of a calculator developed with React. It provides an in
 
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or send a pull request.
 
-## License
 
-This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
