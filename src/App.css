@@ -2,12 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@100&display=swap');
 
-
-/* padding-top: 10px ; */
 .App {
-  width: 100vh;
-  height: 100vh;
-  background-color: #1b1b32;
+ 
+  height: 130vh;
+  background-color: black;
   font-family: Lato, sans-serif;
   display: flex;
   flex-wrap: wrap;

@@ -1,27 +1,31 @@
-# Calculadora en React
+# React Calculator
 
-Este es un proyecto simple de una calculadora desarrollada con React. Proporciona una interfaz de usuario intuitiva y realiza operaciones matemáticas básicas.
+This is a simple project of a calculator developed with React. It provides an intuitive user interface and performs basic mathematical operations.
 
-## Características
+## Features
 
-- Interfaz de usuario intuitiva y fácil de usar.
-- Dinamismo logrado con React.
-- Operaciones básicas: suma, resta, multiplicación y división.
+- Intuitive and user-friendly interface.
+- Dynamism achieved with React.
+- Basic operations: addition, subtraction, multiplication, and division.
 
-## Cómo Usar
+## How to Use
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/calculadora-react.git`
-2. Instala las dependencias: `npm install`
-3. Inicia la aplicación: `npm start`
+1. Clone the repository: `git clone https://github.com/your-username/react-calculator.git`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
 
-## Capturas de Pantalla
+## Screenshots
 
-![Captura de pantalla 1](/screenshots/screenshot1.png)
-![Captura de pantalla 2](/screenshots/screenshot2.png)
+![Screenshot 1](/public/screenshot.png)
 
 ## Contributions
 
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or send a pull request.
+
+## License
+
+This project is under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 
 
