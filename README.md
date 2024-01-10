@@ -19,7 +19,9 @@ Este es un proyecto simple de una calculadora desarrollada con React. Proporcion
 ![Captura de pantalla 1](/screenshots/screenshot1.png)
 ![Captura de pantalla 2](/screenshots/screenshot2.png)
 
-## Contribuciones
+## Contributions
 
-¡Contribuciones son bienvenidas! Si encuentras algún problema o tienes sugerencias, por favor, abre un problema o envía un pull request.
+Contributions are welcome! If you find any issues or have suggestions, please open an issue or send a pull request.
+
+
 
