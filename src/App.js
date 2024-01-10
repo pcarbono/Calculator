@@ -23,9 +23,9 @@ function App() {
 
   return (
     <div className="App">
-      <div className='titulo'>
+      {/* <div className='titulo'>
         <h1>Calculadora Web</h1>
-      </div>
+      </div> */}
       <div className='contenedor-calculadora'>
         <Pantalla input = {input} />
         <div className='fila'>
